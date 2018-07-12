@@ -1,9 +1,12 @@
-Eins 
-Zwei 
-Drei
+Eins One 
+Zwei Two
+Drei Three
 Vier
 Fünf
 Sechs
 
 Dem Pferd den hat vier Beiner, 
 hat er einer keiner, umfallt.
+
+The horse haz four legz,
+has the horze one not, bam.
