@@ -1,3 +1,4 @@
+Null
 Einse 
 Zwei 
 Drei
@@ -9,3 +10,5 @@ Sieben
 
 Dem Pferd den hat vier Beiner, 
 hat er einer keiner, umfallt.
+
+Nochmal weitergearbeitet.
