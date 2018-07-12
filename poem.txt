@@ -1,7 +1,7 @@
 Null
-Einse 
-Zwei 
-Drei
+Einse     (One)
+Zwei      (Two)
+Drei      (Three)
 Dreikommafünf
 Viere
 Fünf
@@ -10,5 +10,9 @@ Sieben
 
 Dem Pferd den hat vier Beiner, 
 hat er einer keiner, umfallt.
-
 Nochmal weitergearbeitet.
+
+The horse haz four legz,
+has the horze one not, bam.
+
+I am not sure this is a good idea.
