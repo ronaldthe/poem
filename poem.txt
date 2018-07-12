@@ -1,9 +1,11 @@
-Eins 
+Einse 
 Zwei 
 Drei
-Vier
+Dreikommafünf
+Viere
 Fünf
 Sechs
+Sieben
 
 Dem Pferd den hat vier Beiner, 
 hat er einer keiner, umfallt.
